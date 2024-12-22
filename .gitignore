@@ -1,0 +1,5 @@
+.env
+src/Lib
+src/Scripts
+src/pyvenv.cfg
+src/__pycache__
